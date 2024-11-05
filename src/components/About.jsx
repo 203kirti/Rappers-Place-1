@@ -9,7 +9,7 @@ const About = () => {
         Welcome to Rap Battle, the ultimate platform for rap enthusiasts and
         aspiring artists! Here, you can challenge your favorite rappers,
         showcase your skills, and engage with a vibrant community of music
-        lovers.
+        lovers...
       </p>
       <h2 className="text-3xl font-semibold mb-4">Our Mission</h2>
       <p className="text-lg mb-4">
